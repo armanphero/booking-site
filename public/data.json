@@ -1,0 +1,29 @@
+[
+    {
+        "_id": 1,
+        "title": "Standard Room",
+        "description": "Cozy room with basic amenities for a comfortable stay.",
+        "img": "img/room1.jpg",
+        "beds": 1,
+        "capacity": 2,
+        "price": 100
+    },
+    {
+        "_id": 2,
+        "title": "Deluxe Room",
+        "description": "Spacious room with modern amenities and a beautiful view.",
+        "img": "img/room2.jpg",
+        "beds": 2,
+        "capacity": 4,
+        "price": 150
+    },
+    {
+        "_id": 3,
+        "title": "Suite",
+        "description": "Luxurious suite with separate living and sleeping areas.",
+        "img": "img/room3.jpg",
+        "beds": 1,
+        "capacity": 2,
+        "price": 250
+    }
+]

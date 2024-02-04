@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/*  */
+
+img {
+    max-width: 100%;
+}
+
+.overlay {
+    background: rgba(0, 0, 0, 0.3);
+}
